@@ -1,0 +1,3 @@
+/home/daniela/CLionProjects/TodoListCpp/cmake-build-debug/CMakeFiles/TodoListCpp.dir
+/home/daniela/CLionProjects/TodoListCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/daniela/CLionProjects/TodoListCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir

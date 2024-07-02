@@ -16,10 +16,10 @@
 /*
  * Newbie comments
  * Compile with g++ (v11) in proyect dir
- * g++ -std=c++20 -I . -g *.cpp -o main && ./main
+ * g++ -std=c++20 -I include -g *.cpp -o main && ./main
  *
  * -std=c++20 : Use c++20
- * -I .       : get .h files from current dir
+ * -I include       : get .h files from current dir
  * -g *.cpp   : compile every .cpp file
  * -o main    : the output executable file is main
  *
@@ -107,7 +107,7 @@ int main() {
                 break;
         }
 
-    } while (input != 7);
+    } while (input != 6);
 
     return EXIT_SUCCESS;
 }
